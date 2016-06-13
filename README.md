@@ -1,9 +1,10 @@
 # FW Branding Automation
 Android Branding:
-- Graphic resources
+- Static resources
   - Boot image
   - Boot animation
   - Default wallpaper and 3 extra wallpapers
+  - Sample files: images, music, video, User Manual
 - build.prop details
   - USB Disk Volume name
   - USB Label volume name
@@ -16,4 +17,9 @@ Android Branding:
 - APK List
 - Home concept image
 - SAT resources
--   flashtool
+  - flashtool binary
+  - IMEI1+IMEI2+s/n+WifiMAC+BTMac+DeviceID recorder tool
+- Release Files
+  - Flashimage file
+  - OTA file
+  - TF card update file
