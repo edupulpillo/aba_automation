@@ -12,5 +12,8 @@ Android Branding:
   - Default timezone
   - Default Language
   - Default keyboard
+  - OTA server details
 - APK List
 - Home concept image
+- SAT resources
+-   flashtool
