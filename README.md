@@ -6,7 +6,7 @@ Android Branding:
   - Default wallpaper and 3 extra wallpapers
   - Sample files: images, music, video, User Manual
 - APK List
-- Home concept image
+- Launcher Home concept image with widgets 
 - build.prop configuration details
   - USB Disk Volume name
   - USB Label volume name
