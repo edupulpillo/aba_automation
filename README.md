@@ -5,7 +5,7 @@ Android Branding:
   - Boot animation
   - Default wallpaper and 3 extra wallpapers
   - Sample files: images, music, video, User Manual
-- build.prop details
+- build.prop configuration details
   - USB Disk Volume name
   - USB Label volume name
   - Settings/about device name
@@ -14,6 +14,8 @@ Android Branding:
   - Default Language
   - Default keyboard
   - OTA server details
+- Another system configuration details
+  - Storage memory in only one partition
 - APK List
 - Home concept image
 - SAT resources
