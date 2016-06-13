@@ -1,4 +1,4 @@
-# FW branding automation
+# FW Branding Automation
 Android Branding:
 - Graphic resources
   - Boot image
