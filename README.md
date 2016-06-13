@@ -10,7 +10,7 @@ Android Branding:
   - Settings/about device name
   - Settings/about device vendor
   - Default timezone
-  - Default Langguage
+  - Default Language
   - Default keyboard
 - APK List
 - Home concept image
