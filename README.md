@@ -19,8 +19,8 @@ Android Branding:
 - Another system configuration details
   - Storage memory in only one partition
 - SAT resources
-  - flashtool binary
-  - IMEI1+IMEI2+s/n+WifiMAC+BTMac+DeviceID recorder tool
+  - flash tool binary and Documentation for flashing
+  - IMEI1+IMEI2+s/n+WifiMAC+BTMac+DeviceID Recorder tool and documentation to use it
 - Release Files
   - Flashimage file
   - OTA file
