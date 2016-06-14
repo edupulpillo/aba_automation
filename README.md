@@ -18,6 +18,8 @@ Android Branding details:
   - OTA server details
 - Another system configuration details
   - Storage memory in only one partition
+  - Engineer mode production line testing mode: dial commands
+  - Bands configured for UE/USA
 - SAT resources
   - flash tool binary and Documentation for flashing
   - IMEI1+IMEI2+s/n+WifiMAC+BTMac+DeviceID Recorder tool and documentation to use it
