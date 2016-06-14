@@ -16,10 +16,12 @@ Android Branding details:
   - Default Language
   - Default keyboard
   - OTA server details
+  - Default URL for browser
+  - Default bookmarks URLs for browser
 - Another system configuration details
   - Storage memory in only one partition
   - Engineer mode production line testing mode: dial commands
-  - Bands configured for UE/USA
+  - Bands configured for UE/USA and dial command to show bands available
 - SAT resources
   - flash tool binary and Documentation for flashing
   - IMEI1+IMEI2+s/n+WifiMAC+BTMac+DeviceID Recorder tool and documentation to use it
