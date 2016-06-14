@@ -1,4 +1,4 @@
-# FW Branding Automation
+# OEM FW Automation
 Android Branding details:
 - Static resources
   - Boot image
