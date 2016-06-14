@@ -23,6 +23,8 @@ Android Branding details:
 - SAT resources
   - flash tool binary and Documentation for flashing
   - IMEI1+IMEI2+s/n+WifiMAC+BTMac+DeviceID Recorder tool and documentation to use it
+  - Procedure to identify the bands compatibility USA/EU in the PCBA
+  - PCBA versions and how to identify it
 - Release Files
   - Flashimage file
   - OTA file
