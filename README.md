@@ -1,5 +1,5 @@
 # FW Branding Automation
-Android Branding:
+Android Branding details:
 - Static resources
   - Boot image
   - Boot animation
