@@ -10,6 +10,8 @@ Android Branding details:
 - build.prop configuration details
   - USB Disk Volume name
   - USB Label volume name
+  - Bluetooth device name
+  - Screencast device name
   - Settings/about device name
   - Settings/about device vendor
   - Default timezone
